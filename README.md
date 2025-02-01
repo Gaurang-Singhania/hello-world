@@ -3,3 +3,4 @@ This is an example repository for the Git tutorial,
 executed as a part of the expermiment for my Devops laboratory.
 
 It now includes steps for Github.
+This file is now being pushed to the repository.
